@@ -50,6 +50,14 @@
 - ✅ 用户友好的界面
 - ✅ 安全可靠的操作机制
 
+## 📺 视频教程
+
+**完整使用教程（包含AugmentCode注册和工具使用）**
+
+[![B站视频教程](https://img.shields.io/badge/B站-视频教程-00A1D6?style=for-the-badge&logo=bilibili)](https://b23.tv/j0eroIR)
+
+> 视频内容包括：AugmentCode账号注册、工具下载使用、常见问题解决等完整流程
+
 ## 使用方法
 
 ### 免费体验方式

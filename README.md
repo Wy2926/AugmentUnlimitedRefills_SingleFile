@@ -51,7 +51,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="插件安装.png" alt="插件安装" width="300"/>
+        <img src="插件安装.jpg" alt="插件安装" width="300"/>
         <br>
         <strong>� 插件安装</strong>
         <br>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="云端Token.png" alt="云端Token拉取" width="300"/>
+        <img src="获取账号和切换.png" alt="云端Token拉取" width="300"/>
         <br>
         <strong>🌐 拉取云端Token</strong>
         <br>

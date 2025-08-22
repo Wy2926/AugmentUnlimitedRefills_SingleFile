@@ -35,6 +35,15 @@
 - ✅ **无需注册** - 直接使用，无需账号注册
 - ✅ **自动化流程** - 全自动化操作，省时省力
 - ✅ **友好界面** - 直观易用的图形界面
+- ✅ **安全可靠** - 多重安全机制保护
+
+## 📺 视频教程
+
+**完整使用教程（包含AugmentCode注册和工具使用）**
+
+[![B站视频教程](https://img.shields.io/badge/B站-视频教程-00A1D6?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1pjeazhEvk)
+
+> 视频内容包括：AugmentCode账号注册、工具下载使用、常见问题解决等完整流程
 
 ## 📸 功能截图
 
